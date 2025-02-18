@@ -1,0 +1,91 @@
+var dia = prompt("Ingrese el dia");
+var mes = prompt("Ingrese el mes");
+
+
+if(mes == 1){
+
+if(dia <= 20)
+  alert("es capricornio")
+
+if (dia >=21)
+  alert("es acuario")
+}
+if(mes == 2){
+
+if(dia <= 19)
+  alert("es aquario")
+
+if (dia >=20)
+  alert("es picis")
+}
+if(mes == 3){
+
+if(dia <= 20)
+  alert("es picis")
+if (dia >=21)
+  alert("es aries")
+}
+if(mes == 4){
+
+if(dia <= 20)
+  alert("es aries")
+if (dia >=21)
+  alert("es tauro")
+}
+if(mes == 5){
+
+if(dia <= 20)
+  alert("es tauro")
+if (dia >=21)
+  alert("es geminis")
+}
+if(mes == 6){
+
+if(dia <= 20)
+  alert("es geminis")
+if (dia >=21)
+  alert("es cancer")
+}
+
+if(mes == 7){
+
+if(dia <= 22)
+  alert("es cancer")
+if (dia >=23)
+  alert("es leo")
+}
+ if(mes == 8){
+
+if(dia <= 23)
+  alert("es leo")
+if (dia >=24)
+  alert("es virgo")
+}
+if(mes == 9){
+
+if(dia <= 22)
+  alert("es virgo")
+if (dia >=23)
+  alert("es libra")
+}
+if(mes == 10){
+
+if(dia <= 23)
+  alert("es libra")
+if (dia >=24)
+  alert("es escorpio")
+}
+if(mes == 11){
+
+if(dia <= 22)
+  alert("es escorpio")
+if (dia >=23)
+  alert("es sagitario")
+}
+if(mes == 12){
+
+if(dia <= 21)
+  alert("es sagitario")
+if (dia >=22)
+  alert("es capricornio")
+}
